@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('My Calculatorku :)'),
+          title: const Text('My calculator ku :)'),
         ),
         body: const Padding(
           padding: EdgeInsets.all(18.0),
